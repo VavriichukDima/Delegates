@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\obj\Debug\net5.0\DelegatesPain.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\obj\Debug\net5.0\DelegatesPain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\obj\Debug\net5.0\DelegatesPain.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\obj\Debug\net5.0\DelegatesPain.AssemblyInfo.cs
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\obj\Debug\net5.0\DelegatesPain.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\bin\Debug\net5.0\DelegatesPain.exe
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\bin\Debug\net5.0\DelegatesPain.deps.json
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\bin\Debug\net5.0\DelegatesPain.runtimeconfig.json
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\bin\Debug\net5.0\DelegatesPain.runtimeconfig.dev.json
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\bin\Debug\net5.0\DelegatesPain.dll
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\bin\Debug\net5.0\ref\DelegatesPain.dll
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\bin\Debug\net5.0\DelegatesPain.pdb
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\obj\Debug\net5.0\DelegatesPain.dll
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\obj\Debug\net5.0\ref\DelegatesPain.dll
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\obj\Debug\net5.0\DelegatesPain.pdb
+C:\Users\admin\source\repos\DelegatesPain\DelegatesPain\obj\Debug\net5.0\DelegatesPain.genruntimeconfig.cache

@@ -8,8 +8,13 @@ namespace DelegatesPain
         {
             var a = new A();
             var b = new B();
-            b.ShowHandler = B.Show;
-            b.ShowHandler(a.Calc1(b.PowHandler 1, 2, 3).Invoke(2));
+            b.ShowHandler = Show;
+            b.ShowHandler(a.Calc(b.Pow, 2, 3).Invoke(2));
+        }
+
+        private static void Show(bool res)
+        {
+            Console.WriteLine(res);
         }
     }
 }

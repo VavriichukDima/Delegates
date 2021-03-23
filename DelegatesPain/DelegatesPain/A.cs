@@ -8,22 +8,19 @@ namespace DelegatesPain
 {
     public class A
     {
-        public Predicate<int> Predicate { get; set; }
-        public static int Calc()
+        private double _powResult;
+        public double PowResult { get; set; }
+
+        public Predicate<double> Calc(Func<double, double, double> powHandler, double x, double y)
         {
-            
+            _powResult = powHandler(x, y);
+            Predicate<double> calcDelega = Result;
+            return calcDelega;
         }
 
-        public static bool Result(int z)
+        private bool Result(double x)
         {
-            if ((B.PowHandler % z) == 0)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return _powResult % x == 0;
         }
     }
 }
